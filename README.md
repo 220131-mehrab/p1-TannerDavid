@@ -1,4 +1,4 @@
-#Magic the Gathering Database
+# Magic the Gathering Database
 
 - This is our Magic the Gathering database prototype. The user can read and write to our SQL database 
  using our web app to view each entry. 
@@ -7,7 +7,7 @@
 
   
 
-#The User Can:
+## The User Can:
 
 - Search through our data using the dynamic search bar on the landing page.
 - View the contents of the database with clickable card images to view in a focused view.
